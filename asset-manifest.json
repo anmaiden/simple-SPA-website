@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-SPA-website/static/css/main.ed8a20f3.css",
+    "main.js": "/simple-SPA-website/static/js/main.4a590bd1.js",
+    "index.html": "/simple-SPA-website/index.html",
+    "main.ed8a20f3.css.map": "/simple-SPA-website/static/css/main.ed8a20f3.css.map",
+    "main.4a590bd1.js.map": "/simple-SPA-website/static/js/main.4a590bd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8a20f3.css",
+    "static/js/main.4a590bd1.js"
+  ]
+}
