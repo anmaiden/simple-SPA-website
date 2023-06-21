@@ -12,7 +12,7 @@ function Navbar() {
     <Router> 
       <div className='navbar-container'>
         <nav>
-          <h4><Link to="/">Simple SPA website</Link></h4>
+          <h4><Link to="/">Demo: simple SPA website React</Link></h4>
           <ul className='nav-links'>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/about">About</Link></li>

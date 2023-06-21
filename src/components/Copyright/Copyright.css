@@ -1,0 +1,12 @@
+ul{
+  list-style-type: none;
+}
+ul li{
+  padding-top:  10px;
+}
+.anmaiden {
+  color: rgb(188, 199, 191);
+}
+.anmaiden:hover{
+  color: rgb(22, 100, 74);
+}
